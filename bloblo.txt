@@ -1,0 +1,233 @@
+300 exlibris
+
+200 fynbos
+200 kifkif
+200 poxvirus
+200 kuvasz
+200 azraqite
+200 gewurztraminer
+200 qawwali
+200 waqf
+200 xiangqi
+
+166 pentoxifylline , fynbos
+166 poxvirus, exvoto
+
+150 ajvar
+150 arfvedsonite
+150 bixbyite
+150 breakdance
+150 cefquinome
+150 chapka
+150 cowgirl
+150 crwth
+150 devchirme
+150 dexrazoxane
+150 dogcart
+150 evzone
+150 fiqh
+150 fromgi
+150 gymkhana
+150 hafnium
+150 howdah
+150 inuinnaqtun
+150 korfbal
+150 kumquat
+150 macvin
+150 picpoul
+150 polje
+150 pyjama
+150 quechquemitl
+150 taekwondo
+150 upwelling
+150 vajrayana
+150 vodka
+150 zugzwang
+
+133 bixbyite , exbioctet , buxbaumie
+133 aulx , helxine
+133 showman , showmen
+
+125 pegfilgrastim , stagflation
+125 scrapbooking , campbellite
+125 dexketoprofene , hixkaryana
+125 bouzkachi , blitzkrieg
+
+120 mujtahid , ijtihad
+
+117 gewurztraminer , azteque , lisztien , puszta , aztreonam
+
+100 angakuit
+100 antivax
+100 aulx
+100 bronx
+100 chleuhs
+100 chlorfenvinphos
+100 coccyx
+100 corbs
+100 cornflakes
+100 cowpox
+100 crawlons
+100 desks
+100 dhikrs
+100 draugrs
+100 duxelles
+100 evohe
+100 exeat
+100 exequatur
+100 feldgrau
+100 feujs
+100 fiqhs
+100 fondaparinux
+100 gadzarts
+100 galejions
+100 gex
+100 goim
+100 goym
+100 grosz
+100 gygis
+100 gwerz
+100 huons
+100 hyksos
+100 interviewions
+100 interviewons
+100 jazzy
+100 jiu-jitsu
+100 kremls
+100 ksi
+100 kugelhopfs
+100 lorsque
+100 midshipmen
+100 mitsvot
+100 moshavs
+100 muqarnas
+100 nystagmus
+100 panchax
+100 peuhls
+100 planhs
+100 pouligny-saint-pierre
+100 pyanepsies
+100 quiz
+100 rantanplan
+100 romestecqs
+100 rooibos
+100 sandyx
+100 sercquiais
+100 showbiz
+100 showmen
+100 skyphos
+100 spetsnaz
+100 tadelakts
+100 tamacheqs
+100 trapps
+100 uraeus
+100 waouh
+100 waqfs
+100 wax
+100 wendigowak
+100 xiangqis
+100 subpolaire , subparallele
+100 rondpoints , adposition
+100 saufconduit , neufchatel
+100 greenwashing , zinnwaldite
+100 oubykh , bombykol
+100 potjevleesch , kevlar
+100 circumzenithal , mzabite
+100 kifkif , kafkaien
+100 mikve , akvavit , kvas
+100 cowper , snowpark , cowpox
+100 klezmer , jazzman , jazzmen
+100 flashback , wishbone , pechblende
+100 trondhjemite , paghjella , mahjong
+100 jodhpur , schproum , pitchpin
+100 turkmene , bookmaker , walkman , buckminsterfullerene
+100 won, taekwondo, interviewons
+100 abzyme
+100 blackjack
+100 blitzkrieg
+100 bodhisattva
+100 bouzkachi
+100 bremsstrahlung
+100 buckminsterfullerene
+100 buhund
+100 buxbaumie
+100 campbellite
+100 catgut
+100 chadburn
+100 chipewyan
+100 circumduction
+100 circumzenithal
+100 conakryka
+100 conyze
+100 cromlech
+100 curryfication
+100 dexketoprofene
+100 dhikr
+100 dishdasha
+100 domra
+100 drawback
+100 ecmnesie
+100 eschscholtzia
+100 exbioctet
+100 exvoto
+100 feuj
+100 flammekueche
+100 gersdorffite
+100 goodwill
+100 grundtvigianisme
+100 hadjdj
+100 hardcore
+100 harzburgite
+100 hauyne
+100 helxine
+100 hepcidine
+100 hixkaryana
+100 ijtihad
+100 jagdterrier
+100 jharal
+100 jodhpur
+100 kabiye
+100 kikuyu
+100 kimchi
+100 kudzu
+100 kugelhopf
+100 lawrencium
+100 mahjong
+100 mihrab
+100 mikve
+100 nemrod
+100 oubykh
+100 pechblende
+100 pegfilgrastim
+100 pentoxifylline
+100 pintxo
+100 pitpit
+100 potjevleesch
+100 puszta
+100 pyroxmangite
+100 qepik
+100 railway
+100 remdesivir
+100 rhovyl
+100 rixdale
+100 rudbeckie
+100 rufiyaa
+100 scrapbooking
+100 sehtar
+100 shipchandler
+100 smyrniote
+100 sprechgesang
+100 stagflation
+100 stawug
+100 subkilotonnique
+100 syzygie
+100 trucmuche
+100 tugtupite
+100 turkmene
+100 tyuyamunite
+100 vallhund
+100 vuvuzela
+100 webzine
+100 xoloitzcuintle
+100 zhuang
+100 zyklon
